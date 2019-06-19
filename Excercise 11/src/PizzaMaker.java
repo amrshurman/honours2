@@ -1,0 +1,4 @@
+
+interface PizzaMaker {
+CreatePizza getCreatedPizza(); 
+}
